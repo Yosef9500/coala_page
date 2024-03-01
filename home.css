@@ -1,0 +1,30 @@
+body {
+    
+    background-image:
+    url("background.jpg");
+}
+
+.headline {
+    
+    font-size: 4em;
+    color: violet;
+}
+
+.cool_coala {
+    width: 30%;
+    height: 30%;
+}
+
+.coala_p {
+    color: brown;
+    font-size: 2em;
+}
+.ck_pics {
+    width: 208px;
+    height: 208px;
+}
+
+.plane {
+    width: 50%;
+    height: 50%;
+}
